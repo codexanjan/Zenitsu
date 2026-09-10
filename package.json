@@ -1,0 +1,36 @@
+{
+  "name": "zenitsu",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Zenitsu Agatsuma — Minimal Cinematic Animated Portfolio with Web Audio API & Procedural Lightning",
+  "author": "Anjan Shetty <https://github.com/codexanjan>",
+  "homepage": "https://zenitsu-kohl.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codexanjan/Zenitsu.git"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "gsap": "^3.15.0",
+    "lucide-react": "^1.43.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.1.0",
+    "oxlint": "^1.79.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.2"
+  }
+}
