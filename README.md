@@ -15,6 +15,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind-CSS%20v4-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Web Audio API](https://img.shields.io/badge/Web%20Audio-Procedural%20Synth-f59e0b?style=for-the-badge&logo=soundcharts&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-fee135?style=for-the-badge&logo=vercel&logoColor=050507)](https://zenitsu.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-fee135?style=for-the-badge)](LICENSE)
 
 <br />
@@ -320,15 +321,12 @@ This is an **unofficial, non-commercial fan-made tribute website** created solel
 
 ---
 
-## 👤 Author
-
-**Anjan Shetty**
-- **GitHub:** [@codexanjan](https://github.com/codexanjan)
-- **Repository:** [codexanjan/Zenitsu](https://github.com/codexanjan/Zenitsu)
-- **Live Demo:** [https://zenitsu-kohl.vercel.app](https://zenitsu-kohl.vercel.app)
-
 ---
 
 <div align="center">
-  <b>⚡ FORGED WITH LIGHTNING & DEDICATION ⚡</b>
+
+Made with ❤️ by [Anjan Shetty](https://github.com/codexanjan)
+
+[![GitHub](https://img.shields.io/badge/GitHub-codexanjan-181717?style=flat&logo=github)](https://github.com/codexanjan)
+
 </div>
